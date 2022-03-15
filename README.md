@@ -1,4 +1,4 @@
-Algoritmos implementados como parte do TRABALHO trabalho da disciplina de Técnicas de Busca e Ordenação.
+Algoritmos implementados como parte do TERCEIRO trabalho da disciplina de Técnicas de Busca e Ordenação.
 
 
 Atentar para alguns parâmetros de compilação do Visual Studio que podem causar 
